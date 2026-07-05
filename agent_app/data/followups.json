@@ -1,0 +1,156 @@
+[
+  {
+    "follow_id": "FU-5CE072D1",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "????",
+    "status": "待提醒",
+    "task_id": "CASE-CBDD5910",
+    "created_at": "2026-07-05T16:35:19",
+    "review_id": null
+  },
+  {
+    "follow_id": "FU-8E56686A",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "????",
+    "status": "待提醒",
+    "task_id": "CASE-8C0CC56D",
+    "created_at": "2026-07-05T16:33:50",
+    "review_id": null
+  },
+  {
+    "follow_id": "FU-DE179D0B",
+    "title": "一个月内复查并提交反馈",
+    "priority": "中",
+    "due_date": "2026-08-04",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "????",
+    "status": "待提醒",
+    "task_id": "CASE-16677C7C",
+    "created_at": "2026-07-05T16:33:04",
+    "review_id": "REV-E7EB08A9"
+  },
+  {
+    "follow_id": "FU-02A51FE8",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "封菲洋",
+    "status": "待提醒",
+    "task_id": "CASE-A75E3ED5",
+    "created_at": "2026-07-05T16:08:33",
+    "review_id": null
+  },
+  {
+    "follow_id": "FU-CBAF718D",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "??",
+    "status": "待提醒",
+    "task_id": "CASE-5367CC4B",
+    "created_at": "2026-07-05T16:00:35",
+    "review_id": null
+  },
+  {
+    "follow_id": "FU-B068ED2D",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "???",
+    "status": "已反馈",
+    "task_id": "CASE-94B9EFB5",
+    "created_at": "2026-07-05T14:59:45",
+    "review_id": null,
+    "feedback": {
+      "completed": false,
+      "new_symptoms": "",
+      "note": "",
+      "answers": [],
+      "submitted_at": "2026-07-05T15:23:18"
+    },
+    "updated_at": "2026-07-05T15:23:18"
+  },
+  {
+    "follow_id": "FU-BE3D6179",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "???",
+    "status": "待提醒",
+    "task_id": "CASE-F4AF0C60",
+    "created_at": "2026-07-05T14:55:48",
+    "review_id": null
+  },
+  {
+    "follow_id": "FU-2F6EEEA9",
+    "title": "一个月内复查并提交反馈",
+    "priority": "中",
+    "due_date": "2026-08-04",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "???",
+    "status": "医生已调整随访计划",
+    "task_id": "CASE-D4CEEC7C",
+    "created_at": "2026-07-05T14:54:19",
+    "review_id": "REV-5033AD8B",
+    "doctor_reviewed": true
+  },
+  {
+    "follow_id": "FU-D095EA6F",
+    "title": "按常规体检周期复查",
+    "priority": "低",
+    "due_date": "2026-10-03",
+    "questions": [
+      "是否已线下就诊或咨询医生？",
+      "是否出现新的不适症状？",
+      "是否完成复查或准备复查？"
+    ],
+    "owner": "王同学",
+    "status": "医生已调整随访计划",
+    "task_id": "CASE-C7C00C41",
+    "created_at": "2026-07-05T14:37:37",
+    "review_id": "REV-8ED426B4",
+    "doctor_reviewed": true
+  }
+]

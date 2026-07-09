@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: medical-report-agent
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python agent_app/app.py
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: OCR_MAX_VARIANTS
+        value: "1"
+      - key: BAIDU_OCR_API_KEY
+        sync: false
+      - key: BAIDU_OCR_SECRET_KEY
+        sync: false
